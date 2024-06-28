@@ -14,7 +14,7 @@ Spider Cloud is an example project that demonstrates how to build a scalable and
 
 ### Technologies
 
-- [Spider](https://spider.cloud)
+- [Spider](https://github.com/spider-rs/spider)
 
 ### Table of Contents
-- [Installation](#installation)
+- [VSCode Online Web Crawling](https://github.com/spider-rs/spider-cloud-live-code-viewer)
